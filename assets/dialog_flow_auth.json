@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rutvikpatelflutterbot-tvjd",
+  "private_key_id": "76615e6e719fe407133c17089e8d4d576d9885e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCs+JilSbqgtfDr\nGrwn+WKUP2p+35SjKm6y4KjqXXjoZFmH4Tgxu+B/3jsKBlElob/9HY2EkhUS7E8q\nupKt5jEpYTxbyrxhv8TTj00p6psVKlg5k88JCBdLBAQLeSvlnmiv0GWvaT3k/hSR\nY8/7TNw/4VjwG4DM+uBVM3G5CM5twQMKxEThVs94367UDrpGj+f/Aumsl1PcLRti\nDh+ETmtdHjC9x8dpmN55lRO390lH3CRBQ+F+XFJrw/ysuyaovkYKt1tygwUt9N8Q\nFwwDYbVGeg2agDQ7KVPhxgBcr+5l9bEbrtb9VtV9K07U8v55qiRhedTrVH+5yXQ/\nF9gTMKt7AgMBAAECggEAJJkC3zIe6UMlwvDor8KN75UNaOPQlMd1Hab4RoJZgz48\nTUpDdA5u/U8dicz1XXOAZkNa/ppUGClkxMMuJtpGO52lwjw+qKYFNMgkyQIpJwzL\nFv+ltiD+oLIsUusj9RUTzGNZKIipfmqeGncWefL0xRVelosTMQvB7HUSklaBKupq\ndCfATdQ7xbUATd2P21fKl6r561aY+i263c9vtIgfwLgLKs9YgpBePY1JDVaJEe/E\nMMH4lR1qTNDdsODuNccCRZdZYmJpbfGRwbxmSi3QoXUjAPWpkbF6Ys1NtVkm6CdC\n3JSwkrJ4MSGHBpEj1+cXokd8avXDC9MHcut30k/YnQKBgQDv7YWA9xVEs96S1yW9\n6PCyy6pPYT3o9s43HXuJvH8/8lM1tOsf3xaG/PCG/xWqDJgMmgB29wcOUsRQkKKW\nk4Ah7zSYDhIcGNjN7ypkaThpXJzm2jOd2CfaUHpYvj9BRpzSskU1XpLS5VCLgdH3\nCV1XR2905ECv3LhcIRP9VNrQ7wKBgQC4jtiIt0hMFW/qpr4HyTuW345e+IxIemic\nZ5uAd4zGnmzKcirmEpyK54R2E5nOtNlTYHDoqsLgAx5T80izQg37jeqEz9iauWRC\nBzaq2/dhI7fU5jBZgwIjVjSFoMTWtg5+zR1KAxFPwvCzr5Ub6Xc5wsKlxJfgyDs1\nrOt7AT82NQKBgQDVS11CN2Zq+1TFSgs9d5Zz/OddRl+Zeb/983HeEvs1SCJ9PmdA\noD0QqFDUUnVaBXQuz8HWAOn+68mmrc48+sgQYu1ouCmVXOlwukv/lCMYV8MM37K/\ngmh7hswdlJP7XeEQ1nb8aSUx47blLvYQHf0jGFiXnEt9jEVBcg6pSgR1dQKBgE8r\nL6XOAZxpob2l02ShpQc+VONWeU7p+5AEPcdpASF+eiqJuO9C0pYfZEoGdHcgSw2i\nFC0qezf+/naCqRAEaN0c7poUUtVka6aLU58NhtvLp6MTL3Bma3dfFl6wLV/xbtxj\n/oluMXHmrLxXuH3ls3g6nKbhY0lQe122FLmKOmR1AoGATCoZGTN9nOBWmOe5X4w9\n+F7COOEPHc8NNQSJpL2R3G0jTur+Dq1DKHnffmWPX6zqmPppfs3baOwZ39WhdVvg\nbr1SJwtMXnkRGVm4SyPHIZdhOw9CDxoS88/3mW9lK+7RNkq8PYZDcG1OL1PXH2lO\nQ6TkXiqpyLplDLRswIj7fQo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rutvikpatel-sbot@rutvikpatelflutterbot-tvjd.iam.gserviceaccount.com",
+  "client_id": "102638822231827881736",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rutvikpatel-sbot%40rutvikpatelflutterbot-tvjd.iam.gserviceaccount.com"
+}

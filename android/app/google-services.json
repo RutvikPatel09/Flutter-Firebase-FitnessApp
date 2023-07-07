@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762954987825",
+    "project_id": "supremefitness-3adab",
+    "storage_bucket": "supremefitness-3adab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762954987825:android:9065f0985181d993e75810",
+        "android_client_info": {
+          "package_name": "com.example.supreme_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762954987825-njo5sjhq1e205eldm0krv773gh3n4etc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supreme_fitness",
+            "certificate_hash": "ccd44c2e7440a21ac56c27f2280d47f094f16f00"
+          }
+        },
+        {
+          "client_id": "762954987825-nfeaqbfgpuqktthuv0c1v0o78ddk569f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDERF2lUJTFtVA_-YWB4l-0PhwwPhoFVlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762954987825-cp85ol2ql3ebfk8r8bfvrmp95uui7s8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3571059927510987~7353697059"
+    }
+  ],
+  "configuration_version": "1"
+}

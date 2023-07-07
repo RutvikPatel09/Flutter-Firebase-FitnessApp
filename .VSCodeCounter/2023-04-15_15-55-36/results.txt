@@ -1,0 +1,160 @@
+Date : 2023-04-15 15:55:36
+Directory : c:\SEM-10\supreme_fitness\lib
+Total : 96 files,  10477 codes, 1245 comments, 923 blanks, all 12645 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         96 |     10,477 |      1,245 |        923 |     12,645 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         96 |     10,477 |      1,245 |        923 |     12,645 |
+| . (Files)                                                                   |         14 |      2,660 |        432 |        234 |      3,326 |
+| AI BOT With ChatGPT                                                         |          3 |        199 |          0 |         25 |        224 |
+| AboutUS                                                                     |          1 |        162 |          0 |          4 |        166 |
+| BMI                                                                         |          1 |        203 |         14 |          9 |        226 |
+| CaloriesNeed                                                                |          1 |        317 |          0 |         14 |        331 |
+| ChatBot                                                                     |          2 |        139 |          3 |         17 |        159 |
+| Declarations                                                                |          3 |         39 |          0 |         11 |         50 |
+| Declarations (Files)                                                        |          1 |         26 |          0 |          8 |         34 |
+| Declarations\Global                                                         |          1 |          3 |          0 |          3 |          6 |
+| Declarations\Images                                                         |          1 |         10 |          0 |          0 |         10 |
+| Email Verification                                                          |          1 |         93 |          4 |         15 |        112 |
+| Exercise                                                                    |          2 |        495 |         78 |         33 |        606 |
+| ExerciseCategory                                                            |          2 |        341 |         94 |         28 |        463 |
+| Favorite                                                                    |          1 |         71 |          1 |          6 |         78 |
+| Feedback                                                                    |          1 |         95 |          6 |         10 |        111 |
+| General Widgets                                                             |          1 |          3 |          0 |          2 |          5 |
+| Live CHAT Support                                                           |          1 |         68 |          6 |         13 |         87 |
+| Localization                                                                |          1 |         62 |          1 |          4 |         67 |
+| NotificationService                                                         |          2 |        131 |          2 |         25 |        158 |
+| OTPVerification                                                             |          2 |        334 |         49 |         30 |        413 |
+| Reports                                                                     |          1 |        105 |          0 |         25 |        130 |
+| Screens                                                                     |          6 |      1,537 |        154 |         92 |      1,783 |
+| Screens\UI                                                                  |          2 |      1,232 |        154 |         66 |      1,452 |
+| Screens\Widgets                                                             |          4 |        305 |          0 |         26 |        331 |
+| Search                                                                      |          1 |         81 |          1 |          7 |         89 |
+| SplashScreen                                                                |          1 |        135 |         13 |         14 |        162 |
+| StepsCounter                                                                |         10 |        507 |         17 |         39 |        563 |
+| StepsCounter (Files)                                                        |          1 |        145 |          8 |         14 |        167 |
+| StepsCounter\widget                                                         |          9 |        362 |          9 |         25 |        396 |
+| Stripe Payment                                                              |          2 |        141 |          1 |          9 |        151 |
+| Trainer                                                                     |          1 |        278 |         11 |         17 |        306 |
+| adminDrawer                                                                 |          1 |         29 |         14 |          3 |         46 |
+| customWidget                                                                |          2 |         42 |          0 |          8 |         50 |
+| drawer                                                                      |          2 |        433 |        102 |         40 |        575 |
+| healthyFood                                                                 |          7 |        931 |        173 |         62 |      1,166 |
+| models                                                                      |          8 |         89 |          3 |         21 |        113 |
+| providers                                                                   |          9 |        215 |          7 |         38 |        260 |
+| splash_screen                                                               |          2 |        142 |          9 |         25 |        176 |
+| trainerDashboard                                                            |          1 |         25 |          0 |          3 |         28 |
+| uploadVideos                                                                |          3 |        375 |         50 |         40 |        465 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                    | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\SEM-10\supreme_fitness\lib\AI BOT With ChatGPT\AIBOT.dart                | Dart     |        107 |          0 |         15 |        122 |
+| c:\SEM-10\supreme_fitness\lib\AI BOT With ChatGPT\ChatMessage.dart          | Dart     |         38 |          0 |          4 |         42 |
+| c:\SEM-10\supreme_fitness\lib\AI BOT With ChatGPT\ThreeDots.dart            | Dart     |         54 |          0 |          6 |         60 |
+| c:\SEM-10\supreme_fitness\lib\AboutUS\aboutUs.dart                          | Dart     |        162 |          0 |          4 |        166 |
+| c:\SEM-10\supreme_fitness\lib\AdmobService.dart                             | Dart     |         20 |          0 |          4 |         24 |
+| c:\SEM-10\supreme_fitness\lib\BMI\bmi_calculator.dart                       | Dart     |        203 |         14 |          9 |        226 |
+| c:\SEM-10\supreme_fitness\lib\CaloriesNeed\dailyCaloriesNeed.dart           | Dart     |        317 |          0 |         14 |        331 |
+| c:\SEM-10\supreme_fitness\lib\ChatBot\Bot.dart                              | Dart     |         89 |          2 |         13 |        104 |
+| c:\SEM-10\supreme_fitness\lib\ChatBot\Messages.dart                         | Dart     |         50 |          1 |          4 |         55 |
+| c:\SEM-10\supreme_fitness\lib\Declarations\DashboardScreen.dart             | Dart     |         26 |          0 |          8 |         34 |
+| c:\SEM-10\supreme_fitness\lib\Declarations\Global\GlobalDeclar.dart         | Dart     |          3 |          0 |          3 |          6 |
+| c:\SEM-10\supreme_fitness\lib\Declarations\Images\ImageFiles.dart           | Dart     |         10 |          0 |          0 |         10 |
+| c:\SEM-10\supreme_fitness\lib\Email Verification\verifyEmail.dart           | Dart     |         93 |          4 |         15 |        112 |
+| c:\SEM-10\supreme_fitness\lib\ExerciseCategory\category.dart                | Dart     |        232 |         94 |         21 |        347 |
+| c:\SEM-10\supreme_fitness\lib\ExerciseCategory\showCategory.dart            | Dart     |        109 |          0 |          7 |        116 |
+| c:\SEM-10\supreme_fitness\lib\Exercise\exercise.dart                        | Dart     |        377 |         74 |         24 |        475 |
+| c:\SEM-10\supreme_fitness\lib\Exercise\showExercise.dart                    | Dart     |        118 |          4 |          9 |        131 |
+| c:\SEM-10\supreme_fitness\lib\Favorite\favorites.dart                       | Dart     |         71 |          1 |          6 |         78 |
+| c:\SEM-10\supreme_fitness\lib\Feedback\feedback.dart                        | Dart     |         95 |          6 |         10 |        111 |
+| c:\SEM-10\supreme_fitness\lib\General Widgets\GWidgets.dart                 | Dart     |          3 |          0 |          2 |          5 |
+| c:\SEM-10\supreme_fitness\lib\Live CHAT Support\LiveChatSupport.dart        | Dart     |         68 |          6 |         13 |         87 |
+| c:\SEM-10\supreme_fitness\lib\Localization\localString.dart                 | Dart     |         62 |          1 |          4 |         67 |
+| c:\SEM-10\supreme_fitness\lib\NotificationService\NotificationServices.dart | Dart     |        103 |          2 |         21 |        126 |
+| c:\SEM-10\supreme_fitness\lib\NotificationService\messageScreen.dart        | Dart     |         28 |          0 |          4 |         32 |
+| c:\SEM-10\supreme_fitness\lib\OTPVerification\phone.dart                    | Dart     |        177 |         11 |         16 |        204 |
+| c:\SEM-10\supreme_fitness\lib\OTPVerification\verify.dart                   | Dart     |        157 |         38 |         14 |        209 |
+| c:\SEM-10\supreme_fitness\lib\PhoneAuthentication.dart                      | Dart     |        166 |         86 |         17 |        269 |
+| c:\SEM-10\supreme_fitness\lib\Reports\reports.dart                          | Dart     |        105 |          0 |         25 |        130 |
+| c:\SEM-10\supreme_fitness\lib\Screens\UI\DashboardPage.dart                 | Dart     |        225 |         87 |         28 |        340 |
+| c:\SEM-10\supreme_fitness\lib\Screens\UI\HomePage.dart                      | Dart     |      1,007 |         67 |         38 |      1,112 |
+| c:\SEM-10\supreme_fitness\lib\Screens\Widgets\1Body.dart                    | Dart     |         55 |          0 |          6 |         61 |
+| c:\SEM-10\supreme_fitness\lib\Screens\Widgets\2TopClipper.dart              | Dart     |         31 |          0 |          4 |         35 |
+| c:\SEM-10\supreme_fitness\lib\Screens\Widgets\3RightContainers.dart         | Dart     |        115 |          0 |          8 |        123 |
+| c:\SEM-10\supreme_fitness\lib\Screens\Widgets\4LeftContainers.dart          | Dart     |        104 |          0 |          8 |        112 |
+| c:\SEM-10\supreme_fitness\lib\Search\search.dart                            | Dart     |         81 |          1 |          7 |         89 |
+| c:\SEM-10\supreme_fitness\lib\SplashScreen\AnimatedSplashScreen.dart        | Dart     |        135 |         13 |         14 |        162 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\stepCount.dart                   | Dart     |        145 |          8 |         14 |        167 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\widget\DashoardCard.dart         | Dart     |         92 |          2 |          5 |         99 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\widget\buttonNav.dart            | Dart     |         45 |          0 |          2 |         47 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\widget\containerButton.dart      | Dart     |         19 |          0 |          2 |         21 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\widget\dailyAverage.dart         | Dart     |         52 |          3 |          4 |         59 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\widget\dayCount.dart             | Dart     |         36 |          1 |          2 |         39 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\widget\iconColumn.dart           | Dart     |         20 |          0 |          1 |         21 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\widget\imageContainer.dart       | Dart     |         33 |          2 |          3 |         38 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\widget\textWidget.dart           | Dart     |         19 |          0 |          3 |         22 |
+| c:\SEM-10\supreme_fitness\lib\StepsCounter\widget\topTextButton.dart        | Dart     |         46 |          1 |          3 |         50 |
+| c:\SEM-10\supreme_fitness\lib\Stripe Payment\payment.dart                   | Dart     |         69 |          0 |          4 |         73 |
+| c:\SEM-10\supreme_fitness\lib\Stripe Payment\paymentController.dart         | Dart     |         72 |          1 |          5 |         78 |
+| c:\SEM-10\supreme_fitness\lib\TestAD.dart                                   | Dart     |         48 |          2 |          9 |         59 |
+| c:\SEM-10\supreme_fitness\lib\Trainer\addTrainer.dart                       | Dart     |        278 |         11 |         17 |        306 |
+| c:\SEM-10\supreme_fitness\lib\adminDrawer\my_admin_header_drawer.dart       | Dart     |         29 |         14 |          3 |         46 |
+| c:\SEM-10\supreme_fitness\lib\adminHome.dart                                | Dart     |        306 |         23 |         20 |        349 |
+| c:\SEM-10\supreme_fitness\lib\customWidget\card_widget.dart                 | Dart     |         22 |          0 |          4 |         26 |
+| c:\SEM-10\supreme_fitness\lib\customWidget\card_widget2.dart                | Dart     |         20 |          0 |          4 |         24 |
+| c:\SEM-10\supreme_fitness\lib\drawer\my_drawer_header.dart                  | Dart     |        135 |         31 |         11 |        177 |
+| c:\SEM-10\supreme_fitness\lib\drawer\my_profile.dart                        | Dart     |        298 |         71 |         29 |        398 |
+| c:\SEM-10\supreme_fitness\lib\forgotPassword.dart                           | Dart     |        145 |          8 |          7 |        160 |
+| c:\SEM-10\supreme_fitness\lib\healthyFood\WeightGainFood.dart               | Dart     |        149 |         73 |         10 |        232 |
+| c:\SEM-10\supreme_fitness\lib\healthyFood\WeightLoss.dart                   | Dart     |        102 |          4 |          6 |        112 |
+| c:\SEM-10\supreme_fitness\lib\healthyFood\addHealthyFood.dart               | Dart     |        473 |         88 |         25 |        586 |
+| c:\SEM-10\supreme_fitness\lib\healthyFood\chipController.dart               | Dart     |          7 |          1 |          1 |          9 |
+| c:\SEM-10\supreme_fitness\lib\healthyFood\filterData.dart                   | Dart     |         73 |          2 |          6 |         81 |
+| c:\SEM-10\supreme_fitness\lib\healthyFood\firebase_controller.dart          | Dart     |         44 |          5 |          9 |         58 |
+| c:\SEM-10\supreme_fitness\lib\healthyFood\healthyFood.dart                  | Dart     |         83 |          0 |          5 |         88 |
+| c:\SEM-10\supreme_fitness\lib\homescreen.dart                               | Dart     |        177 |         21 |         21 |        219 |
+| c:\SEM-10\supreme_fitness\lib\imageUpload.dart                              | Dart     |        126 |          0 |         13 |        139 |
+| c:\SEM-10\supreme_fitness\lib\localLogin.dart                               | Dart     |        275 |         37 |         24 |        336 |
+| c:\SEM-10\supreme_fitness\lib\localRegister.dart                            | Dart     |        218 |          7 |         18 |        243 |
+| c:\SEM-10\supreme_fitness\lib\login.dart                                    | Dart     |        493 |        123 |         34 |        650 |
+| c:\SEM-10\supreme_fitness\lib\main.dart                                     | Dart     |        127 |         49 |         15 |        191 |
+| c:\SEM-10\supreme_fitness\lib\models\categoryModel.dart                     | Dart     |          5 |          0 |          2 |          7 |
+| c:\SEM-10\supreme_fitness\lib\models\exercise.dart                          | Dart     |          9 |          0 |          3 |         12 |
+| c:\SEM-10\supreme_fitness\lib\models\feedbackModel.dart                     | Dart     |          5 |          0 |          2 |          7 |
+| c:\SEM-10\supreme_fitness\lib\models\healthyFoodModel.dart                  | Dart     |         31 |          1 |          6 |         38 |
+| c:\SEM-10\supreme_fitness\lib\models\profileDataModel.dart                  | Dart     |          6 |          0 |          2 |          8 |
+| c:\SEM-10\supreme_fitness\lib\models\trainerModel.dart                      | Dart     |         11 |          0 |          2 |         13 |
+| c:\SEM-10\supreme_fitness\lib\models\userModel.dart                         | Dart     |         13 |          2 |          2 |         17 |
+| c:\SEM-10\supreme_fitness\lib\models\videoModel.dart                        | Dart     |          9 |          0 |          2 |         11 |
+| c:\SEM-10\supreme_fitness\lib\providers\categoryProvider.dart               | Dart     |         14 |          0 |          3 |         17 |
+| c:\SEM-10\supreme_fitness\lib\providers\exerciseProvider.dart               | Dart     |         15 |          0 |          1 |         16 |
+| c:\SEM-10\supreme_fitness\lib\providers\favoriteProvider.dart               | Dart     |         33 |          0 |          8 |         41 |
+| c:\SEM-10\supreme_fitness\lib\providers\feedbackProvider.dart               | Dart     |         15 |          0 |          2 |         17 |
+| c:\SEM-10\supreme_fitness\lib\providers\healthyFoodProvider.dart            | Dart     |         17 |          0 |          2 |         19 |
+| c:\SEM-10\supreme_fitness\lib\providers\profileDataProvider.dart            | Dart     |         49 |          0 |         12 |         61 |
+| c:\SEM-10\supreme_fitness\lib\providers\trainerProvider.dart                | Dart     |         14 |          0 |          1 |         15 |
+| c:\SEM-10\supreme_fitness\lib\providers\userProvider.dart                   | Dart     |         45 |          7 |          8 |         60 |
+| c:\SEM-10\supreme_fitness\lib\providers\videoProvider.dart                  | Dart     |         13 |          0 |          1 |         14 |
+| c:\SEM-10\supreme_fitness\lib\register.dart                                 | Dart     |        284 |         17 |         20 |        321 |
+| c:\SEM-10\supreme_fitness\lib\splash_screen\splash_screen.dart              | Dart     |         99 |          7 |         17 |        123 |
+| c:\SEM-10\supreme_fitness\lib\splash_screen\splash_screen2.dart             | Dart     |         43 |          2 |          8 |         53 |
+| c:\SEM-10\supreme_fitness\lib\testPage.dart                                 | Dart     |         75 |         11 |         11 |         97 |
+| c:\SEM-10\supreme_fitness\lib\trainerDashboard\trainerDashboard.dart        | Dart     |         25 |          0 |          3 |         28 |
+| c:\SEM-10\supreme_fitness\lib\trainerLogin.dart                             | Dart     |        200 |         48 |         21 |        269 |
+| c:\SEM-10\supreme_fitness\lib\uploadVideos\listItem.dart                    | Dart     |         54 |          1 |          7 |         62 |
+| c:\SEM-10\supreme_fitness\lib\uploadVideos\showVideos.dart                  | Dart     |         69 |         10 |          7 |         86 |
+| c:\SEM-10\supreme_fitness\lib\uploadVideos\uploadExerciseVideos.dart        | Dart     |        252 |         39 |         26 |        317 |
+| Total                                                                       |          |     10,477 |      1,245 |        923 |     12,645 |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
